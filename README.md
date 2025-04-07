@@ -1,4 +1,4 @@
-# ROS2_mitup_IUTeam
+# ROS2_meetup_IUTeam
 
 Структура репозитория:
 - instructions - инструкции по установке и настройке ROS;
